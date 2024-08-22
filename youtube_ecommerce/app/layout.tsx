@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     },
   },
 
-  manifest: `${process.env.NEXT_PUBLIC_SERVER_URL}/manifest.webmanifest`,
+  // manifest: `${process.env.NEXT_PUBLIC_SERVER_URL}/manifest.webmanifest`,
 
   icons: {
     icon: "/assets/images/logo.svg",
