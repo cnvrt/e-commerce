@@ -1,2 +1,2 @@
 # e-commerce
-YouTube E-Commerce
+E-Commerce
