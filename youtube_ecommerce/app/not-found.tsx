@@ -6,7 +6,7 @@ export default function NotFound() {
 
     // TODO:Custom not found page 
     <section>
-      <Container>My name is not found </Container>;
+      <Container> Not Found </Container>;
     </section>
   );
 }
