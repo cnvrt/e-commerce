@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+# Next Js Full Stack Ecommerce From Scratch.
+
+This is a full stack Nextjs app with a beautiful and amazing design ui. 
+
+## Our goal
+
+- Build beautiful Frontend Design UI &  High quality code 
+- Build Strong Api.
+- Test with Jest and Cypress.
+
+## Core features 
+
+- Learn how to start a next js  project from scratch
+- Learn how to set SEO to Next Js Project
+- Learn how to set up Tailwind Css and Next Js Project
+- Learn how to create React components with Tailwind CSS
+- Learn how to create React components with framer motion
+- Learn how to Test your app with Jest, Cypress
+- Learn how to build consume API 
+
+## Quick start
+
+To spin up this example loccaly, follow these steps
+
+### Clone
+
+Use the ` git clone ` CLI to clone template directly  to your machine
+
+### Set up env file
+
+1. You will need to setup Next js  [Next Js ](https://nextjs.org)
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+    NEXT_PUBLIC_SERVER_URL=
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Run project on local
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+    npm install
+    npm run dev
+```
 
-## Learn More
+## Project Dev Steps
 
-To learn more about Next.js, take a look at the following resources:
+1. Environment Setup
+    - Install Next js Project
+    - Deploy on vercel first version
+```bash
+    npx create-next-app@latest
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2.  Project Folder Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3.  Setup Eslint
+   
+4.  Setup Jest
 
-## Deploy on Vercel
+5. Setup Cypress
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+7. Create Pipeline CI CD
+    
+8. Setup ShadCn and Some Libraries
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+9. Setup Frontend UI Kit ( Colors - Fonts - Container )
+
+10. Create  Home UI
+
+11. Create  Product page UI
+
+12. Create  Product Detail  UI
+
+13. Create  Cart UI
+
+14. Create  Checkout UI
+
+15. Create  Payment UI
+
+16. Create  Dashoard UI
+
+17. Fixing bug 
+
+18. Test Jest 
+
+19. Test Cypress 
+
+20. Deploy 
+
