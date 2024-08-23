@@ -72,8 +72,8 @@ export default function SearchMobile({
       <button
         className={cn("", openSearchMobile && "hidden")}
         onClick={() => setOpenSearchMobile(!openSearchMobile)}
-      >
-        <CiSearch className="h-8 w-8" />
+      >Search
+{/*         <CiSearch className="h-8 w-8" /> */}
       </button>
       <m.div
         initial={{ opacity: 0, y: -15 }}
